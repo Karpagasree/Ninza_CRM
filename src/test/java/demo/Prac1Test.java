@@ -9,7 +9,6 @@ public class Prac1Test {
 	{
 		System.out.println("Audi");
 		System.out.println("Benz");
-		System.out.println("Hyundai");
 		System.out.println("BMW");
 	}
 
