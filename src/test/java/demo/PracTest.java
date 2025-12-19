@@ -8,6 +8,7 @@ public class PracTest {
 	public void bikeTest()
 	{
 		System.out.println("Yamaha");
+		System.out.println("RE");
 	}
 
 }
